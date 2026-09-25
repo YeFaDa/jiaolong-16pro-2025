@@ -1,0 +1,9 @@
+result
+result-*
+*.ko
+*.o
+*.mod
+*.mod.c
+*.symvers
+*.order
+.tmp_*
